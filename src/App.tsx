@@ -1,4 +1,4 @@
-import { Router } from '@/router'
+import { Router } from '@/routes'
 import { BrowserRouter } from 'react-router-dom'
 
 export function App() {
